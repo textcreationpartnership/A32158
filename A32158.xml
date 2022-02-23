@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two speeches the first spoken by the Kings most excellent Majesty, at a generall councell held at Oxford, December 29 : wherein His Maiesty declares his inability to maintaine the warre any longer without the Lords shall rayse present supply of money for the maintenance of the said army : the second, spoken by the Earle of Northampton in answer to His Majesties demands.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32158</idno>
+            <idno type="STC">Wing C2871</idno>
+            <idno type="STC">ESTC R1362</idno>
+            <idno type="EEBO-CITATION">12128603</idno>
+            <idno type="OCLC">ocm 12128603</idno>
+            <idno type="VID">54655</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32158)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 54655)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 242:E83, no 47)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two speeches the first spoken by the Kings most excellent Majesty, at a generall councell held at Oxford, December 29 : wherein His Maiesty declares his inability to maintaine the warre any longer without the Lords shall rayse present supply of money for the maintenance of the said army : the second, spoken by the Earle of Northampton in answer to His Majesties demands.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for I.H. and W. Whightfield,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>January 2, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649. --  Speech spoken by the Kings most excellent Majesty at a generall councell held at Oxford, December 29, 1642.</term>
+               <term>Northampton, Spencer Compton, --  Earl of, 1601-1643.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:54655:1"/>
+            <!-- PDF PAGE 109 -->
+            <pb facs="tcp:54655:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 109 -->
+            <p>Two Speeches, The firſt ſpoken by the Kings moſt Excellent Majeſty.</p>
+            <p>
+               <hi>At a generall Councell held at</hi> OXFORD, <hi>December</hi> 29.</p>
+            <p>VVherein his Maieſty declares his inability to maintaine the Warre any longer. without the Lords ſhall rayſe preſent ſupply of Money, for the main<g ref="char:EOLhyphen"/>tenance of the ſaid ARMY.</p>
+            <p>The ſecond, ſpoken by the Earle of <hi>Northampton,</hi> in an<g ref="char:EOLhyphen"/>ſwer to his Majeſties Demands.</p>
+            <figure>
+               <head>C R</head>
+               <q>HONI SOIT QVI MALl Y PENSE</q>
+               <figDesc>royal blazon or coat of arms</figDesc>
+            </figure>
+            <p>
+               <hi>January,</hi> 2, Printed for <hi>I. H.</hi> and <hi>W. Whightfield.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:54655:2"/>
+            <!-- PDF PAGE 110 -->
+            <pb facs="tcp:54655:2"/>
+            <!-- PDF PAGE 110 -->
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="speech">
+                        <head>A SPEECH Spoken by the Kings moſt Excellent MAIESTY.</head>
+                        <head type="sub">At a Generall Councell held at <hi>Oxford</hi> December 29. 1642.</head>
+                        <opener>
+                           <salute>
+                              <seg rend="decorInit">M</seg>Y Lordes, and Gentlemen which are here aſſembled according to Our Com<g ref="char:EOLhyphen"/>mand,</salute>
+                        </opener>
+                        <p>Wee in Our ten<g ref="char:EOLhyphen"/>der care of the Generall good, have thought it neceſſary to declare unto you the truth of Our preſent eſtate and condition, which I beleeve will ap<g ref="char:EOLhyphen"/>peare very deplorable to you, and all other Our loving and loyall Subjects.</p>
+                        <p>The great ſumme<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> which Wee have received from every one of you, (Wee willingly and gratefully acknowledge)
+<pb facs="tcp:54655:3"/>
+                           <!-- PDF PAGE 111 -->toward the maintainance of theſe warres, in which you are joyntly in<g ref="char:EOLhyphen"/>gaged with us, for the maintaining our Regall and Royall Prerogative, and the ſupport of the true Proteſtant Re<g ref="char:EOLhyphen"/>ligion Profeſſed by <hi>Queene Elizabeth</hi> and maintained by our Royall father under whoſe government this King<g ref="char:EOLhyphen"/>dome injoyed ſo many yeares of Peace and plenty.</p>
+                        <p>But having by your aſſiſtance gone thus farr, and brought this glorious ſtructure to the height and view of forraine Princes, who with Avaritious longings wait to ſee the end of our proceedings, let us not now for want of your aſſiſtance let fall the worke, and make our ſelves a ſcorne and by-word to all Nations.</p>
+                        <p>Therefore in theſe two heads con<g ref="char:EOLhyphen"/>ſiſts the crowne of all our actions.</p>
+                        <p>Either you muſt advance ſome pre<g ref="char:EOLhyphen"/>ſent monies, whereby our Army may be maintained and kept from muti<g ref="char:EOLhyphen"/>ning
+<pb facs="tcp:54655:3"/>
+                           <!-- PDF PAGE 111 -->till ſuch time as we ſhall gaine power to enlarge our quarters, and by that meanes, our men be inabled to ſupply their wants, or on the contra<g ref="char:EOLhyphen"/>ry to endeavour to gaine an honour<g ref="char:EOLhyphen"/>able accommodation of peace, before our exigences are diſcovered or made knowne to the adverſe party.</p>
+                        <p>For common reaſon tells us that our excurſions being ſtopt and our dra<g ref="char:EOLhyphen"/>gooners ſo farre impoveriſhed, it will be a meanes to increaſe mutines, which mutines will eaſily be diſcove<g ref="char:EOLhyphen"/>red and the enemy take advantage of them, and ſhould they find ſo faire an oppertunity they would not eaſily be wonne to an accommodation, ex<g ref="char:EOLhyphen"/>cept it were very advantagious on their party, and very preiudicicall to us.</p>
+                        <p>So that now conſider whether you thinke your ſelves able to maintaine the cauſe which you have undertooke or imbrace an accommodation as is proffered</p>
+                        <pb facs="tcp:54655:4"/>
+                        <!-- PDF PAGE 112 -->
+                        <gap reason="duplicate" extent="1 page">
+                           <desc>〈1 page duplicate〉</desc>
+                        </gap>
+                        <pb facs="tcp:54655:4"/>
+                        <!-- PDF PAGE 112 -->
+                        <gap reason="duplicate" extent="1 page">
+                           <desc>〈1 page duplicate〉</desc>
+                        </gap>
+                        <p>
+                           <pb facs="tcp:54655:5"/>
+                           <!-- PDF PAGE 113 -->
+For ſince We cannot performe with Honour what Wee have undertaken, let your preſent moderation, cure the malladie your former raſhnes hath made, let us not proceed, but with all poſſible expedition, endeavour to ob<g ref="char:EOLhyphen"/>tain<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> an Honourable accommodation.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Hi<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Majeſty having ended his Speech, after ſome Conſultation had among them<g ref="char:EOLhyphen"/>ſelves, the Earle of <hi>Northampton</hi> re<g ref="char:EOLhyphen"/>turned this Anſwer, in the name of all the Lords.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="speech">
+                        <opener>
+                           <salute>MAy it pleaſe your Majeſty</salute>
+                        </opener>
+                        <p>VVe your moſt Loyall Subjects have ſeriouſly weighed the tennour and extent of your Majeſties deſires and in Anſwer to your Majeſties Pro<g ref="char:EOLhyphen"/>poſitions, we have thought it requi<g ref="char:EOLhyphen"/>ſite to returne this Anſwer.</p>
+                        <p n="1">1. For your Majeſties Propoſition that wee ſhould raiſe a preſent ſumme of money, to defray the charge of the
+<pb facs="tcp:54655:5"/>
+                           <!-- PDF PAGE 113 -->Army, tis not unknowne to your Ma<g ref="char:EOLhyphen"/>jeſty, with what willingneſſe and al<g ref="char:EOLhyphen"/>lacrity we have exhauſted our Treaſure to the ruine of our preſent Eſtates, ha<g ref="char:EOLhyphen"/>ving disburſed all the Coyne that wee could rayſe upon our Lands or cre<g ref="char:EOLhyphen"/>dits, tis not unknowne likewiſe, that ſince the begining of theſe VVarres between your Majeſty and your Par<g ref="char:EOLhyphen"/>liament, we have received no Rents, our Tennants being injoyned the con<g ref="char:EOLhyphen"/>trary, by which meanes we are ſo ne<g ref="char:EOLhyphen"/>ceſſitated, that we have hardly meanes to defray our preſent neceſſities, and being ſo, how farre unable we are to raiſe ſuch a conſiderable ſumme, your Majeſty may eaſily conceive.</p>
+                        <p n="2">2. As touching an Honourable Ac<g ref="char:EOLhyphen"/>commodation, ſo it might be procu<g ref="char:EOLhyphen"/>red with Honour to your Majeſty, and ſecurity to us your Majeſties Servants, J verily believe that no true Subject but would willingly and joyfully im<g ref="char:EOLhyphen"/>brace it; but on the contrary, if a
+<pb facs="tcp:54655:6"/>
+                           <!-- PDF PAGE 114 -->Peace cannot be obtained, without the expoſall of our lives to the cenſure of the Law, (as Delinquents) for our Loyalty to your Majeſty, we hope your Majeſty will not condiſcend to, and we would rather hazard our lives to the laſt minute, and dye with Honour, then ſubmit our lives and honours to the cenſure of the Law, and at ſo deare a rate as the loſse of both, purchaſe a brand of diſhonour to our Poſterities forever.</p>
+                        <p>This we leave to your Majeſties Royall conſideration, promiſing to be aſſiſtant to your Royall Majeſty, to the hazard of our lives, ſo farre as our Honours will permit, either in Peace or VVarre, according as your Majeſty in your Royall wiſdome ſhall thinke fit.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
